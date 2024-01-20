@@ -9,6 +9,8 @@ This is day 7 of 100 of learning Python and creating a project in Python
 ![](https://github.com/AlanShami/python-day-7-hangman/blob/main/project_pic.png)
 
 - [main.py](https://github.com/AlanShami/python-day-7-hangman/blob/main/main.py)
+- [art.py](https://github.com/AlanShami/python-day-7-hangman/blob/main/art.py)
+- [words.py](https://github.com/AlanShami/python-day-7-hangman/blob/main/words.py)
 
 
 # Comments:                                                                                                                                                                                  
